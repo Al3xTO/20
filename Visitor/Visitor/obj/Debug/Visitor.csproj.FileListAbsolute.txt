@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\Visitor\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Admin\Downloads\Visitor\Visitor\bin\Debug\Visitor.exe
+C:\Users\Admin\Downloads\Visitor\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Admin\Downloads\Visitor\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Visitor\Visitor\obj\Debug\Visitor.Properties.Resources.resources
+C:\Users\Admin\Downloads\Visitor\Visitor\obj\Debug\Visitor.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Visitor\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Visitor\Visitor\obj\Debug\Visitor.exe
+C:\Users\Admin\Downloads\Visitor\Visitor\obj\Debug\Visitor.pdb
+C:\Users\Admin\Downloads\Visitor\Visitor\obj\Debug\Visitor.Form1.resources
